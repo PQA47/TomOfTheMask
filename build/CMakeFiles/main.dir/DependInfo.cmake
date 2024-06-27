@@ -8,8 +8,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "C:/Users/Asus/Desktop/tomb/Game.cpp" "CMakeFiles/main.dir/Game.cpp.obj" "gcc" "CMakeFiles/main.dir/Game.cpp.obj.d"
-  "C:/Users/Asus/Desktop/tomb/main.cpp" "CMakeFiles/main.dir/main.cpp.obj" "gcc" "CMakeFiles/main.dir/main.cpp.obj.d"
+  "C:/Users/minhv/Desktop/tomb/Game.cpp" "CMakeFiles/main.dir/Game.cpp.obj" "gcc" "CMakeFiles/main.dir/Game.cpp.obj.d"
+  "C:/Users/minhv/Desktop/tomb/main.cpp" "CMakeFiles/main.dir/main.cpp.obj" "gcc" "CMakeFiles/main.dir/main.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -1,5 +1,5 @@
-#ifndef GAME_HPP
-#define GAME_HPP
+#ifndef GAME_H
+#define GAME_H
 
 #include <SFML/Graphics.hpp>
 #include <SFML/Audio.hpp>
@@ -157,4 +157,4 @@ private:
  */
 void resetGame(Player& p, Clock& clock, Texture& Picture);
 
-#endif GAME_HPP
+#endif // GAME_H

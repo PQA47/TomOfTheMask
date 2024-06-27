@@ -1,4 +1,4 @@
-CMakeFiles/tests.dir/tests.cpp.obj: C:\Users\Asus\Desktop\tomb\tests.cpp \
+CMakeFiles/tests.dir/tests.cpp.obj: C:\Users\minhv\Desktop\tomb\tests.cpp \
  C:/mingw64/include/doctest.h C:/mingw64/include/c++/13.1.0/ctime \
  C:/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/c++config.h \
  C:/mingw64/include/c++/13.1.0/x86_64-w64-mingw32/bits/os_defines.h \
@@ -378,7 +378,7 @@ CMakeFiles/tests.dir/tests.cpp.obj: C:\Users\Asus\Desktop\tomb\tests.cpp \
  C:/mingw64/x86_64-w64-mingw32/include/mcx.h \
  C:/mingw64/x86_64-w64-mingw32/include/imm.h \
  C:/mingw64/x86_64-w64-mingw32/include/io.h \
- C:\Users\Asus\Desktop\tomb\Game.h C:/mingw64/include/SFML/Graphics.hpp \
+ C:\Users\minhv\Desktop\tomb\Game.h C:/mingw64/include/SFML/Graphics.hpp \
  C:/mingw64/include/SFML/Window.hpp C:/mingw64/include/SFML/System.hpp \
  C:/mingw64/include/SFML/Config.hpp \
  C:/mingw64/include/SFML/System/Clock.hpp \

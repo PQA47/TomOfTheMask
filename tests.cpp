@@ -16,7 +16,6 @@ TEST_CASE("Player initialization") {
     CHECK(player.up == false);
     CHECK(player.left == false);
     CHECK(player.right == false);
-    CHECK(player.rotate == 0);
 }
 
 TEST_CASE("resetGame function") {

@@ -1,6 +1,5 @@
 #include "Game.h"
 
-
 /**
  * \brief X offset for rendering.
  */
@@ -106,6 +105,7 @@ Player::Player(Texture& image) {
  * \param time Time elapsed since the last update.
  */
 void Player::update(float time) {
+
     rect.left += dx * time;
     Collision(0);
 
@@ -551,6 +551,7 @@ void resetGame(Player& p, Clock& clock, Texture& Picture) {
 
     clock.restart();
 
-    float offsetX = ts * 0;
-    float offsetY = ts * 12;
+    offsetX = p.rect.left - 250;  
+    offsetY = p.rect.top - 250;
+
 }

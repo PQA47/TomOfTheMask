@@ -4,19 +4,19 @@
 cmake_minimum_required(VERSION 3.5)
 
 file(MAKE_DIRECTORY
-  "C:/Users/Asus/Desktop/tomb/build/_deps/doctest-src"
-  "C:/Users/Asus/Desktop/tomb/build/_deps/doctest-build"
-  "C:/Users/Asus/Desktop/tomb/build/_deps/doctest-subbuild/doctest-populate-prefix"
-  "C:/Users/Asus/Desktop/tomb/build/_deps/doctest-subbuild/doctest-populate-prefix/tmp"
-  "C:/Users/Asus/Desktop/tomb/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp"
-  "C:/Users/Asus/Desktop/tomb/build/_deps/doctest-subbuild/doctest-populate-prefix/src"
-  "C:/Users/Asus/Desktop/tomb/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp"
+  "C:/Users/minhv/Desktop/tomb/build/_deps/doctest-src"
+  "C:/Users/minhv/Desktop/tomb/build/_deps/doctest-build"
+  "C:/Users/minhv/Desktop/tomb/build/_deps/doctest-subbuild/doctest-populate-prefix"
+  "C:/Users/minhv/Desktop/tomb/build/_deps/doctest-subbuild/doctest-populate-prefix/tmp"
+  "C:/Users/minhv/Desktop/tomb/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp"
+  "C:/Users/minhv/Desktop/tomb/build/_deps/doctest-subbuild/doctest-populate-prefix/src"
+  "C:/Users/minhv/Desktop/tomb/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp"
 )
 
 set(configSubDirs )
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "C:/Users/Asus/Desktop/tomb/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp/${subDir}")
+    file(MAKE_DIRECTORY "C:/Users/minhv/Desktop/tomb/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "C:/Users/Asus/Desktop/tomb/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "C:/Users/minhv/Desktop/tomb/build/_deps/doctest-subbuild/doctest-populate-prefix/src/doctest-populate-stamp${cfgdir}") # cfgdir has leading slash
 endif()

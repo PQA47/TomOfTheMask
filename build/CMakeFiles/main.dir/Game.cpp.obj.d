@@ -1,5 +1,5 @@
-CMakeFiles/main.dir/Game.cpp.obj: C:\Users\Asus\Desktop\tomb\Game.cpp \
- C:\Users\Asus\Desktop\tomb\Game.h C:/mingw64/include/SFML/Graphics.hpp \
+CMakeFiles/main.dir/Game.cpp.obj: C:\Users\minhv\Desktop\tomb\Game.cpp \
+ C:\Users\minhv\Desktop\tomb\Game.h C:/mingw64/include/SFML/Graphics.hpp \
  C:/mingw64/include/SFML/Window.hpp C:/mingw64/include/SFML/System.hpp \
  C:/mingw64/include/SFML/Config.hpp \
  C:/mingw64/include/SFML/System/Clock.hpp \
